@@ -1,0 +1,7 @@
+.sticky-footer {
+  flex-shrink: none;
+  
+}
+.bgfooter{
+    background-color: #FF6600;
+}
